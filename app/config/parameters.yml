@@ -7,8 +7,8 @@ parameters:
     database_user: root
     database_password: ~
     mailer_transport: smtp
-    mailer_host: 127.0.0.1
-    mailer_user: null
-    mailer_password: null
+    mailer_host: poczta.nazwa.pl
+    mailer_user: wypozyczalnia@ecozielarnia.pl
+    mailer_password: Test1234
     locale: pl
     secret: ThisTokenIsNotSoSecretChangeIt
